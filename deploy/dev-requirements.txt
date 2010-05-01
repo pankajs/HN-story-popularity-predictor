@@ -1,0 +1,5 @@
+ipython
+pep8
+django==1.1.1
+django_extensions
+django-debug-toolbar
